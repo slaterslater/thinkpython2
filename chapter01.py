@@ -1,5 +1,5 @@
 # Think Python 2
-# Chapter 01, page 30
+# Chapter 01, page 8
 
 km = 10
 miles = km/1.61
